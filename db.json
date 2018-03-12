@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Dan",
+      "age": "30"
+    },
+    {
+      "id": "2",
+      "firstName": "Ashlea",
+      "age": 27
+    },
+    {
+      "id": "3",
+      "firstName": "Lottie",
+      "age": 7
+    },
+    {
+      "id": "4",
+      "firstName": "Jasmine",
+      "age": 2
+    },
+    {
+      "id": "5",
+      "firstName": "Rory",
+      "age": 0.7
+    }
+  ]
+}
